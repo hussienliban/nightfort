@@ -1,0 +1,2 @@
+defmodule NightFort do
+end
